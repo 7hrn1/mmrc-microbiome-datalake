@@ -1,0 +1,6 @@
+boto3
+moto
+requests
+pytest
+streamlit 
+pandas
